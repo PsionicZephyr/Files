@@ -1,0 +1,14 @@
+[
+    {
+        "title": "BaseBase（MISC-杂项）",
+        "description": "哥哥，你知道这个东西吗？很常用的哦~<br>说不定你以后经常会用到，嘿嘿~♡",
+        "link": "https://gitgud.io/KazePsi/file-storage/-/raw/master/Nulla/CTF/nulla-basebase.txt",
+        "flagHash": "4729def70f2564591e1dc3fa6979ad4c6005c0e63751f55ccd8eca759f9b4182"
+    },
+    {
+        "title": "零零的游乐场（RE-逆向工程）",
+        "description": "欢迎来到我的游乐场！<br>哥哥，快来陪我玩吧！",
+        "link": "https://gitgud.io/KazePsi/file-storage/-/raw/master/Nulla/CTF/nulla_re.exe",
+        "flagHash": "93f5f295adf339ad6bd53087ff7b1d14086e7f98b92e7bbc3bc05c8d7cf9efd6"
+    }
+]
