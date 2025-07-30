@@ -10,5 +10,17 @@
         "description": "欢迎来到我的游乐场！<br>哥哥，快来陪我玩吧！",
         "link": "https://gitgud.io/KazePsi/file-storage/-/raw/master/Nulla/CTF/nulla_re.exe",
         "flagHash": "93f5f295adf339ad6bd53087ff7b1d14086e7f98b92e7bbc3bc05c8d7cf9efd6"
+    },
+    {
+        "title": "零零的秘密情话（CRYPTO-密码学）",
+        "description": "这是零零的秘密小纸条哦，里面写了些……不、不可以让你直接看到的话！<br>我用了一点小小的魔法把它藏起来了。如果你连这个都解不开，以后就没资格再叫我“零零”了！",
+        "link": "https://gitgud.io/KazePsi/file-storage/-/raw/master/Nulla/CTF/nulla-cryptobasic.txt",
+        "flagHash": "1a30e58834e43e71200ccf88f7a7c4689c995060f2b3ae859e826824dd0095f8"
+    },
+    {
+        "title": "零零的双重信笺（CRYPTO-密码学）",
+        "description": "这次的游戏稍微升级咯。这里有两封我写的信，一封是“公开的邀请函”，另一封是“私密的悄悄话”。它们都用了我最喜欢的加密方式，我敢保证，就算是世界上最厉害的黑客也解不开！<br>不过嘛……我在准备这两封信的时候，为了省一点点力气，好像……不小心用了同一个印章的模板呢？嘻嘻，谁知道呢~",
+        "link": "https://gitgud.io/KazePsi/file-storage/-/raw/master/Nulla/CTF/nulla-rsa.zip",
+        "flagHash": "e9a2000f0c58dc95887d06293c238a6e164499a75fbdd3b1be554a7139eef97e"
     }
 ]
